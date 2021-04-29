@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 </details>
 -->
 <details>
-  <img align="left" alt="stats" src="github-readme-stats-brown-alpha.vercel.app"/>
+  <img align="left" alt="stats" src="https://github-readme-stats-brown-alpha.vercel.app/api?username=antoinedenovembre&show_icons=true&hide_border=true"/>
 </details>
