@@ -10,8 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aduteyrat@gmail.com
 - ⚡ Fun fact: i'm broke
 
-github-readme-stats-brown-alpha.vercel.app
 <details>
   <img align="left" alt="stats" src="github-readme-stats-brown-alpha.vercel.app"/>
 </details>
 -->
+<details>
+  <img align="left" alt="stats" src="github-readme-stats-brown-alpha.vercel.app"/>
+</details>
