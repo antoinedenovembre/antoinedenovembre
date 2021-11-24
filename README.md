@@ -19,17 +19,47 @@ District              : IUT Informatique.
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
-<img align="left" alt="C#" width="30px" src="https://static.cdnlogo.com/logos/c/27/c.svg" />
-<img align="left" alt="Java" width="26px" height="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
-<img align="left" alt="php" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" />
+<p align="left">
+	<a href="https://www.java.com" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-JAVA-f89820?style=for-the-badge&logo=Java&logoColor=white" alt="java"/>
+	</a>
+	<a href="https://www.mysql.com/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-MYSQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white" alt="mysql"/>
+	</a>
+	<a href="https://www.cprogramming.com/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white" alt="c"/>
+	</a>
+	<a href="https://git-scm.com/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-GIT-F05032?logo=Git&style=for-the-badge&logoColor=white" alt="git"/>
+	</a>
+	<a href="https://www.gnu.org/software/bash/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-BASH-4EAA25?logo=GNU%20Bash&style=for-the-badge&logoColor=white" alt="bash"/>
+	</a>
+	<a href="https://www.w3schools.com/cpp/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&style=for-the-badge&logoColor=white" alt="c++"/>
+	</a>
+	<a href="https://www.w3schools.com/cs/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-C%23-239120?logo=C%20Sharp&style=for-the-badge&logoColor=white" alt="c#"/>
+	</a>
+	<a href="https://www.w3.org/html/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&style=for-the-badge&logoColor=white" alt="html5"/>
+	</a>
+	<a href="https://www.w3schools.com/css/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&style=for-the-badge&logoColor=white" alt="css3"/>
+	</a>
+	<a href="https://www.php.net" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&style=for-the-badge&logoColor=white" alt="php"/>
+	</a>
+	<a href="https://getbootstrap.com" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=Bootstrap&style=for-the-badge&logoColor=white" alt="bootstrap"/>
+	</a>
+	<a href="https://www.python.org" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python&style=for-the-badge&logoColor=white" alt="python"/>
+	</a>
+	<a href="https://www.arduino.cc/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-ARDUINO-00979D?logo=Arduino&style=for-the-badge&logoColor=white" alt="arduino"/>
+	</a>
+</p>
 
 [instagram]: https://www.instagram.com/antoinedenovembre/
 [linkedin]: https://www.linkedin.com/in/antoine-duteyrat-175166221/
