@@ -3,7 +3,7 @@
 <!--
 **antoinedenovembre/antoinedenovembre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Antoine, 20, french student in image processing and engineering.  
+Antoine, 22, french student in image processing and engineering.  
 Currently studying at : Telecom Saint-Etienne, France.  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinedenovembre&layout=compact&show_icons=true&theme=dark)
