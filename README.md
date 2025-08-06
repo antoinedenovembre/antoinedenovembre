@@ -4,7 +4,7 @@
 **antoinedenovembre/antoinedenovembre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Antoine, 22, french engineer in image processing and embedded software development.  
-Currently studying at : Safety Tech, France.
+Currently working at : Safety Tech, France.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinedenovembre&layout=compact&show_icons=true&theme=dark)
 
