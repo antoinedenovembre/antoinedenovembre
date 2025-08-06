@@ -16,7 +16,6 @@ Currently studying at : Safety Tech, France.
 
 ### My CV
 
-- [English version](https://github.com/antoinedenovembre/resume)
-- [French version](https://github.com/antoinedenovembre/resume_french)
+- [Latest version](https://github.com/antoinedenovembre/resume/releases/tag/latest)
 
 [linkedin]: https://www.linkedin.com/in/antoine-duteyrat/
